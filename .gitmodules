@@ -6,3 +6,7 @@
 	path = retail-b2c-buyerapp-ui-front
 	url = https://github.com/shaijujohn1974/retail-b2c-buyerapp-ui-front.git
 	branch = main
+[submodule "retail-b2c-buyerapp-mmi-service"]
+	path = retail-b2c-buyerapp-mmi-service
+	url = https://github.com/shaijujohn1974/retail-b2c-buyerapp-mmi-service.git
+	branch = main
