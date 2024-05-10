@@ -10,3 +10,7 @@
 	path = retail-b2c-buyerapp-mmi-service
 	url = https://github.com/shaijujohn1974/retail-b2c-buyerapp-mmi-service.git
 	branch = main
+[submodule "retail-b2c-buyerapp-igm-node-js"]
+	path = retail-b2c-buyerapp-igm-node-js
+	url = https://github.com/shaijujohn1974/retail-b2c-buyerapp-igm-node-js.git
+	branch = main
