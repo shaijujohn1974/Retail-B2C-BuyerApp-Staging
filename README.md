@@ -1,1 +1,1 @@
-# retail-b2c-buyerapp
+# [Retail B2C](https://github.com/shaijujohn1974/retail-b2c.git)
